@@ -26,5 +26,6 @@ Mapbox's [Bob Lannon](https://www.mapbox.com/about/team/bob-lannon/) will walk u
 ## Homework Assignment -- due Thursday March 28th
 - Modify two  Mapbox gl js examples to create two interactive maps
    - e.g., add or modify the data, add additional html elements, change the colors
+   - Create an `index.html` file and separate `.js` and `css` files.
 - Publish them through github pages
 - Include the links to the live examples in your pull request.
