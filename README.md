@@ -15,8 +15,7 @@ There are two ways to submit the midterm:
 
 ### Guest speaker:
 
-Mapbox's [Bob Lannon](https://www.mapbox.com/about/team/bob-lannon/)
-He will walk us through examples using [Mapbox gl js](https://docs.mapbox.com/mapbox-gl-js/examples/)
+Mapbox's [Bob Lannon](https://www.mapbox.com/about/team/bob-lannon/) will walk us through examples using [Mapbox gl js](https://docs.mapbox.com/mapbox-gl-js/examples/).
 
 
 ### Remainder of the course direction discussion
